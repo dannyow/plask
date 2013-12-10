@@ -4781,6 +4781,7 @@ class SkPaintWrapper {
       { "setDevKernText", &SkPaintWrapper::setDevKernText },
       { "setLCDRenderText", &SkPaintWrapper::setLCDRenderText },
       { "setAutohinted", &SkPaintWrapper::setAutohinted },
+      { "getStrokeWidth", &SkPaintWrapper::getStrokeWidth },
       { "setStrokeWidth", &SkPaintWrapper::setStrokeWidth },
       { "getStyle", &SkPaintWrapper::getStyle },
       { "setStyle", &SkPaintWrapper::setStyle },
